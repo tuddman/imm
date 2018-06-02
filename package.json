@@ -1,0 +1,23 @@
+{
+  "name": "imm",
+  "version": "0.1.0",
+  "description": "like npm, but for iota modules",
+  "main": "index.js",
+  "scripts": {
+    "watch": "shadow-cljs watch app",
+    "compile": "shadow-cljs compile app"
+  },
+  "repository": "https://github.com/tuddman/imm.git",
+  "author": "tuddman <scott.tudd@gmail.com>",
+  "license": "gpl3",
+  "private": false,
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "nopt": "^4.0.1",
+    "osenv": "^0.1.5",
+    "read": "^1.0.7"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.3.32"
+  }
+}
