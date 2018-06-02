@@ -5,7 +5,7 @@ like npm. but for iota modules
 
 ### Develop
 
-Watch compile with with hot reloading:
+Watch compile with hot reloading:
 
 ```bash
 yarn
